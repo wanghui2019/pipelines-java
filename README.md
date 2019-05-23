@@ -1,8 +1,4 @@
-
 [![Build Status](https://dev.azure.com/wangershaohui/MyFirstDevOps/_apis/build/status/wanghui2019.pipelines-java?branchName=master)](https://dev.azure.com/wangershaohui/MyFirstDevOps/_build/latest?definitionId=1&branchName=master)
-
-
-[![Build Status](https://dev.azure.com/wangershaohui/158fe5dd-83fb-4fec-88eb-85ea30c737f8/d73fe183-9429-4641-87ce-d4b1d5b77eda/_apis/work/boardbadge/1603f0a2-a7e4-454e-95fa-856a67b42ec0?columnOptions=1)](https://dev.azure.com/wangershaohui/158fe5dd-83fb-4fec-88eb-85ea30c737f8/_boards/board/t/d73fe183-9429-4641-87ce-d4b1d5b77eda/Microsoft.EpicCategory)
 
 # Contributing
 
